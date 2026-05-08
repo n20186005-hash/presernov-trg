@@ -4,18 +4,18 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '鲁比约角全景' },
-  { src: '/gallery/images (2).jpg', alt: '沙丘与灯塔' },
-  { src: '/gallery/images (3).jpg', alt: '北海海岸线' },
-  { src: '/gallery/images (4).jpg', alt: '流动沙丘' },
-  { src: '/gallery/images (5).jpg', alt: '临海悬崖' },
-  { src: '/gallery/images (6).jpg', alt: '海岸日落' },
-  { src: '/gallery/images (7).jpg', alt: '荒野风貌' },
-  { src: '/gallery/images (8).jpg', alt: '灯塔近景' },
-  { src: '/gallery/images (9).jpg', alt: '鲁比约角' },
-  { src: '/gallery/images (10).jpg', alt: '沙丘步道' },
-  { src: '/gallery/images (11).jpg', alt: '北海风光' },
-  { src: '/gallery/images (12).jpg', alt: '灯塔剪影' },
+  { src: '/gallery/images (1).jpg', alt: '普列舍伦广场全景' },
+  { src: '/gallery/images (2).jpg', alt: '三重桥与广场' },
+  { src: '/gallery/images (3).jpg', alt: '普列舍伦青铜雕像' },
+  { src: '/gallery/images (4).jpg', alt: '方济各会教堂' },
+  { src: '/gallery/images (5).jpg', alt: '乌尔班茨大楼' },
+  { src: '/gallery/images (6).jpg', alt: '广场夜景' },
+  { src: '/gallery/images (7).jpg', alt: '中央药房建筑' },
+  { src: '/gallery/images (8).jpg', alt: '广场咖啡馆' },
+  { src: '/gallery/images (9).jpg', alt: '卢布尔雅那河畔' },
+  { src: '/gallery/images (10).jpg', alt: '中世纪老城街道' },
+  { src: '/gallery/images (11).jpg', alt: '城市风光' },
+  { src: '/gallery/images (12).jpg', alt: '浪漫欧洲夜生活' },
 ];
 
 export default function Gallery() {
@@ -95,7 +95,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-6 gap-4 items-center">
               <a
-                href="https://maps.app.goo.gl/4VwNPngCGCqifTnH6"
+                href="https://maps.app.goo.gl/p9nzsuxxzisR1vNF9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

@@ -13,8 +13,8 @@
   "hero": {
     "title": "Prešernov trg",
     "subtitle": "Ljubljana's Heart & National Cultural Symbol of Slovenia",
-    "rating": "4.6(15,000)",
-    "reviewCount": "15,000 reviews",
+    "rating": "4.7(12,783)",
+    "reviewCount": "12,783 reviews",
     "hours": "Open 24/7",
     "openMaps": "View Location"
   },
@@ -327,22 +327,5 @@
   "officialManagement": {
     "title": "About Prešernov trg",
     "text": "Prešernov trg is managed and maintained by the Ljubljana City Hall. It is one of the most important city squares and cultural landmarks in Slovenia's capital.\n\nAs Ljubljana's city heart and national symbol, the square has witnessed centuries of transformation from a medieval city gate to a modern cultural landmark. Today, the square's public areas are free for visitors—an excellent destination for experiencing Slovenian cultural charm and European lifestyle, and an important window for visitors worldwide to understand this Central European nation."
-  },
-  "recommendations": {
-    "title": "Explore More",
-    "attractionsTitle": "Nearby Attractions",
-    "toursTitle": "Recommended Tours & Activities",
-    "attractions": [
-      {"name": "Triple Bridge", "url": "https://www.visitljubljana.si"},
-      {"name": "Ljubljana Castle", "url": "https://www.visitljubljana.si"},
-      {"name": "Central Market", "url": "https://www.visitljubljana.si"},
-      {"name": "Dragon Bridge", "url": "https://www.visitljubljana.si"}
-    ],
-    "tours": [
-      {"name": "Ljubljana Old Town Walking Tour", "url": "https://www.visitljubljana.si"},
-      {"name": "Castle Funicular Ride", "url": "https://www.visitljubljana.si"},
-      {"name": "Slovenia In-Depth Tour", "url": "https://www.slovenia.info"},
-      {"name": "Lake Bled Day Trip", "url": "https://www.slovenia.info"}
-    ]
   }
 }

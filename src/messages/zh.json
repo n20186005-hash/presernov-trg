@@ -13,8 +13,8 @@
   "hero": {
     "title": "普列舍伦广场",
     "subtitle": "斯洛文尼亚卢布尔雅那城市心脏与民族文化象征",
-    "rating": "4.6(15,000)",
-    "reviewCount": "15,000 条评价",
+    "rating": "4.7(12,783)",
+    "reviewCount": "12,783 条评价",
     "hours": "全天开放",
     "openMaps": "查看位置"
   },
@@ -327,22 +327,5 @@
   "officialManagement": {
     "title": "关于普列舍伦广场",
     "text": "普列舍伦广场由卢布尔雅那市政厅管理维护，是斯洛文尼亚首都最重要的城市广场与文化地标之一。\n作为卢布尔雅那城市心脏与民族象征，广场见证了从中世纪城门口到现代文化地标的百年历史变迁。如今，广场公共区域免费向公众开放，是感受斯洛文尼亚文化魅力与欧式生活的绝佳目的地，也是世界各地游客了解这个中欧小国的重要窗口。"
-  },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景点",
-    "toursTitle": "推荐行程与活动",
-    "attractions": [
-      {"name": "三重桥", "url": "https://www.visitljubljana.si"},
-      {"name": "卢布尔雅那城堡", "url": "https://www.visitljubljana.si"},
-      {"name": "中央市场", "url": "https://www.visitljubljana.si"},
-      {"name": "龙桥", "url": "https://www.visitljubljana.si"}
-    ],
-    "tours": [
-      {"name": "卢布尔雅那老城步行游", "url": "https://www.visitljubljana.si"},
-      {"name": "城堡索道观光", "url": "https://www.visitljubljana.si"},
-      {"name": "斯洛文尼亚深度游", "url": "https://www.slovenia.info"},
-      {"name": "布莱德湖一日游", "url": "https://www.slovenia.info"}
-    ]
   }
 }
