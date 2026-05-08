@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Prešernov trg Square | Ljubljana's Heart & National Cultural Symbol - Best European Destinations",
+    "description": "Complete guide to Prešernov trg in Ljubljana, Slovenia. Discover opening hours, transport, tickets, travel tips and stunning photos. The city's heart, medieval gateway and national cultural landmark."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Prešernov trg",
+    "subtitle": "Ljubljana's Heart & National Cultural Symbol of Slovenia",
+    "rating": "4.6(15,000)",
+    "reviewCount": "15,000 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Prešernov trg",
+    "description": "Step into Prešernov trg and instantly feel wrapped in the romantic atmosphere and historical depth of this Central European town. This circular square is like Ljubljana's living room, with a bronze statue standing quietly at its center, colorful buildings surrounding it, and the Triple Bridge connecting the two sides of the river—every detail exudes elegance and vitality.\n\nI visited on a spring afternoon, when sunlight gilded the pink church and Art Nouveau buildings in warm golden hues. Flowers bloomed across the square, street musicians played melodious tunes that echoed through the air. The central Prešeren statue was lifelike, the poet deep in thought, with a goddess above holding a laurel branch, symbolizing poetry and inspiration.\n\nVisitors strolled leisurely, locals gathered at outdoor cafés for chat, children played in the square's center. In the distance, Ljubljana Castle was faintly visible, and traffic flowed across the Triple Bridge, connecting the old and new towns seamlessly.\n\nThere's no rushing here—only the calm that comes from centuries of history and the vibrancy of everyday life. When night falls and lights illuminate, building silhouettes are gently outlined, transforming the square into a stage for European night life. Ancient history and modern energy blend perfectly, healing and awe-inspiring.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
+        "The entire square's public areas are free to access with no admission fee",
+        "Evening is the best time to experience the romantic sunset and gradual lighting transition",
+        "With numerous cafés nearby, pause to enjoy local coffee and experience the relaxed European lifestyle"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "The heart of Ljubljana, capital of Slovenia",
+        "A circular pedestrian square redesigned in 1987-1988",
+        "A cultural landmark named after national poet France Prešeren",
+        "Designated as Slovenia's National Cultural Monument in 1991"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Prešernov trg",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Centuries of Urban Transformation",
+        "content": "Prešernov trg originated as a crossroads at the medieval city gate in the 17th century when the Franciscan Church was built nearby, gradually forming the square's雏形. After the 1895 earthquake, numerous Art Nouveau buildings were constructed around the square, establishing its current architectural character. In 1905, the bronze statue of Prešeren was erected in the square's center, honoring this great national poet.\n\nFrom 1987 to 1988, the square underwent a major renovation by architect Edvard Ravnikar, transforming from a funnel shape into its current circular form. Renovated again in 2007, it became a fully pedestrian square. Over centuries, the square evolved from a medieval city gate to a symbol of national culture and the core of urban life, witnessing Ljubljana's transformation from medieval times to the modern era. Today, it remains one of Slovenia's most representative city landmarks."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "A circular pedestrian square with granite paving and white marble radial patterns. At its center stands the Prešeren bronze statue (erected 1905). To the east is the Central Pharmacy building, to the north the Mayer department store (Art Nouveau style), to the west the Triple Bridge, and to the south the pink facade of the Franciscan Church of the Annunciation. Baroque and Vienna Secession architectural treasures surround the square.\n\nA fusion of architectural styles: the Prešeren statue is Neo-Classical bronze sculpture; the Franciscan Church is Baroque with elegant pink exterior; the Mayer building and surrounding structures are Vienna Secession (Art Nouveau) style with graceful curves and exquisite decorations. The overall ensemble combines Central European classical elegance with Slovenian local character, making it an open-air museum of Ljubljana's architectural art."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "A symbol of Slovenian national spirit, the Prešeren statue in the square commemorates national poet France Prešeren, whose poetry laid the foundation for Slovenian literary language and whose lyrics became the national anthem. The square is Ljubljana's core venue for cultural activities, hosting the Dragon Carnival, concerts, art exhibitions, Christmas markets and other major events. It's also the local meeting place (meet 'under the statue').\n\nDesignated as Slovenia's National Cultural Monument in 1991, it's the core symbol of Slovenian national culture and identity. Major holidays and cultural events are held here annually, attracting visitors from around the world to experience Slovenian cultural charm."
+      },
+      {
+        "id": "experience",
+        "title": "Essential Experiences",
+        "content": "Evening is the highlight at Prešernov trg. Sunset gilds the pink church and Art Nouveau buildings in warm golden hues. Street musicians play melodious tunes, locals gather at outdoor cafés, and visitors stroll to admire architectural details—ancient history blending perfectly with modern vitality.\n\nWhen night falls and lights illuminate, building silhouettes are gently outlined, transforming the square into a stage for romantic European nightlife. It's Ljubljana's most atmospheric meeting spot, where locals arrange to meet 'under the statue' and enjoy local cuisine at cafés, experiencing Slovenian warmth and romance."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Prešernov trg (Prešeren Square)",
+    "type": "Type",
+    "typeValue": "City Center Square, Historical Landmark, Cultural Arts Center, Old Town Gateway",
+    "country": "Country",
+    "countryValue": "Slovenia",
+    "city": "City",
+    "cityValue": "Ljubljana",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "address": "Address",
+    "addressValue": "Prešernov trg 1, 1000 Ljubljana, Slovenia"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Outdoor Areas",
+    "outdoorTime": "Open year-round, 24 hours. No access restrictions in public areas",
+    "lighthouse": "Surrounding Churches & Building Interiors",
+    "summer": "Tuesday - Sunday",
+    "summerTime": "09:00-18:00",
+    "winter": "Monday",
+    "winterTime": "Closed (except religious holidays)",
+    "warning": "Visiting Recommendations",
+    "warningTime": "Visit on weekday mornings or evenings for fewer crowds and softer lighting, perfect for strolling and photography",
+    "tip": "All square public areas are free with no admission fee"
+  },
+  "tickets": {
+    "title": "Admission Prices",
+    "outdoor": "Square Public Areas",
+    "outdoorPrice": "Free admission, no entry fee",
+    "lighthouse": "Surrounding Franciscan Church, Central Pharmacy Museum Interiors",
+    "adults": "Adults",
+    "adultsPrice": "Prices vary by venue",
+    "students": "Students",
+    "studentsPrice": "Discounted rates available",
+    "children": "Children",
+    "childrenPrice": "Free or discounted at select venues",
+    "card": "Ljubljana City Card",
+    "cardPrice": "Can offset entrance fees at select venues, ideal for multi-attraction travelers"
+  },
+  "transport": {
+    "title": "Getting There",
+    "airport": "From Ljubljana Airport",
+    "airportDesc": "Take the airport shuttle bus to the city center, then walk 5 minutes to the square entrance—approximately 25 minutes total. Taxis and rideshares can take you directly, ideal for those with luggage or traveling in groups.",
+    "selfDrive": "From Central Train/Bus Station",
+    "selfDriveDesc": "Walk to the square's surrounding streets within 10 minutes. Public transport runs frequently with excellent connections.",
+    "bus": "From Old Town Attractions",
+    "busDesc": "Walk from the Triple Bridge, Ljubljana Castle, Central Market and other old town attractions. The pedestrian-friendly old town is well-connected, perfect for walking tours between multiple sites.",
+    "intercity": "Cycling",
+    "intercityDesc": "Public cycling stations are available in the old town. The smooth cobblestone streets offer a comfortable cycling experience, ideal for short distances.",
+    "cycling": "Public Transport",
+    "cyclingDesc": "Purchase a Ljubljana daily transport pass for unlimited bus and tram rides, efficiently exploring all city attractions.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Old town streets are narrow—walking is recommended. The square is well-served by public transport, ideal for multi-attraction visits."
+  },
+  "route": {
+    "title": "Walking Route",
+    "overview": "Visit during evening hours. Enter from the Triple Bridge, stroll along the circular path to see the Prešeren statue, pink church and Art Nouveau buildings, wander the surrounding streets, and finish with a café break. Easy walking, approximately 1 hour for a casual visit, half a day for deeper architectural and cultural exploration.",
+    "steps": [
+      "Arrive at nearby public transport stop, walk to Prešernov trg entrance via the Triple Bridge",
+      "Admire the magnificent Triple Bridge and the view connecting Prešernov trg with the river",
+      "Stroll along the circular granite path, observing details of the central Prešeren bronze statue",
+      "Head south to admire the Baroque facade of the pink Franciscan Church of the Annunciation up close",
+      "Wander east to view the historic Central Pharmacy building exterior and learn about the square's transformation",
+      "Stop at the north side to photograph the Mayer department store and appreciate Vienna Secession Art Nouveau details",
+      "Rest at an outdoor café, enjoy local coffee and experience relaxed European lifestyle",
+      "Exit from the west side, continuing to Ljubljana Castle and other old town attractions"
+    ],
+    "supplements": [
+      "Square has granite and cobblestone surfaces—wear comfortable flat shoes",
+      "Strong sun in summer, use sun protection; windy in winter, dress warmly",
+      "Respect historical buildings and public facilities—no climbing statues or scratching walls",
+      "Maintain quiet volume to respect the peaceful atmosphere enjoyed by locals",
+      "Outdoor concerts, art exhibitions and cultural events are occasionally held in summer"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Triple Bridge Entrance",
+        "desc": "Symmetrical composition capturing the full square and pink church—grand and elegant"
+      },
+      {
+        "name": "Central Statue",
+        "desc": "Use the Prešeren bronze statue as foreground with colorful buildings as backdrop—rich in history and culture"
+      },
+      {
+        "name": "Pink Church Side View",
+        "desc": "Shoot upward to capture the Baroque facade and dome—highlighting the church's grandeur"
+      },
+      {
+        "name": "In Front of Mayer Building",
+        "desc": "Art Nouveau details with the square space—atmospheric Central European大片"
+      },
+      {
+        "name": "Circular Plaza Path",
+        "desc": "Strong sense of depth with radial patterns on the ground contrasted against surrounding buildings"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Natural light is abundant—sunny days offer rich light and shadow layers, ideal for landscapes and portraits. Drone flying is prohibited throughout. Always ask permission before photographing locals and street performers. Summer and weekends see more visitors—for empty scenic shots, try weekday mornings."
+  },
+  "hotels": {
+    "title": "Where to Stay",
+    "hotels": [
+      {
+        "name": "Value & Charm: Art Nouveau Historic Hotels",
+        "desc": "Historic Art Nouveau buildings near the square, converted into charming hotels. Gaze out windows at the square and Triple Bridge—elegant and inviting",
+        "price": "Prices vary by season"
+      },
+      {
+        "name": "Design Choice: Modern Riverside Stay",
+        "desc": "Modern minimalist accommodation near the Ljubljanica River with river views. Walking distance to the square and castle",
+        "price": "Prices vary by season"
+      },
+      {
+        "name": "Unique Experience: Baroque Old Town B&B",
+        "desc": "Baroque mansion guesthouse in old town alleys. Immersive Central European atmosphere for authentic local living",
+        "price": "Prices vary by season"
+      },
+      {
+        "name": "Budget Option: Near Central Station",
+        "desc": "Value accommodation near Ljubljana Central Station with convenient transport. Short trip to the square",
+        "price": "Prices vary by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Ljubljana is safe during daytime. Avoid quiet alleys late at night. Summer and weekend prices rise—book in advance. Choose accommodation between the square and old town for easy walking access to Prešernov trg, Triple Bridge, Ljubljana Castle, Central Market and other key attractions, saving travel time."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Prešernov trg City Views & Cultural Heritage",
+    "captions": [
+      "Prešernov trg Panorama",
+      "Triple Bridge & Square",
+      "Prešeren Bronze Statue",
+      "Franciscan Church",
+      "Mayer Department Store",
+      "Square at Night",
+      "Central Pharmacy Building",
+      "Square Café Scene"
+    ],
+    "viewAll": "View Location on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information is available on Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Zhang Ming",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "So romantic! The evening atmosphere is absolutely enchanting. The pink church against the Art Nouveau buildings is captivating. Locals chatting at cafés, children playing—exactly the European life I dreamed of."
+      },
+      {
+        "name": "Li Hua",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "The highlight of my Slovenia trip! Though small, the square is refined, every building has its story. The Prešeren statue is solemn and dignified, the surrounding cafés are stylish. Even more romantic under the night lights."
+      },
+      {
+        "name": "Wang Fang",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "A paradise for architecture lovers! Baroque church, Art Nouveau buildings, classical statues coexist harmoniously. Visit in the evening for stunning architectural lighting—perfect for photos."
+      },
+      {
+        "name": "Chen Wei",
+        "date": "December 2025",
+        "rating": 4,
+        "text": "A beautiful city square with an excellent location connecting old and new towns. Especially lively during the Christmas market—a wonderful place to experience Slovenian culture."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Getting Here",
+    "subtitle": "Prešernov trg 1, 1000 Ljubljana, Slovenia",
+    "openMaps": "Open in Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Prešernov trg Independent Travel Research Association. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "council": "Slovenian Tourism",
+      "tourism": "Visit Ljubljana",
+      "england": "Visit Slovenia"
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We typically do not actively collect personally identifiable information. Any information you provide through contact forms or email will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Information Use",
+        "content": "Information collected is used solely to provide, maintain and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking Technologies",
+        "content": "We use cookies and similar tracking technologies to track activity on our website and store certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We strive to use commercially acceptable means to protect your personal data, but no method of internet transmission is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: April 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you do not agree to any part of these terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party travel information project. Information provided is for general reference only. You agree to use this website responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website (including text, images and logos) is the property of the website owner (unless otherwise stated). Unauthorized use, copying or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We are not liable for any direct, indirect, incidental or consequential damages arising from the use or inability to use this website or information contained within it."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the website."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Settings",
+    "saved": "Settings saved!"
+  },
+  "officialManagement": {
+    "title": "About Prešernov trg",
+    "text": "Prešernov trg is managed and maintained by the Ljubljana City Hall. It is one of the most important city squares and cultural landmarks in Slovenia's capital.\n\nAs Ljubljana's city heart and national symbol, the square has witnessed centuries of transformation from a medieval city gate to a modern cultural landmark. Today, the square's public areas are free for visitors—an excellent destination for experiencing Slovenian cultural charm and European lifestyle, and an important window for visitors worldwide to understand this Central European nation."
+  },
+  "recommendations": {
+    "title": "Explore More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [
+      {"name": "Triple Bridge", "url": "https://www.visitljubljana.si"},
+      {"name": "Ljubljana Castle", "url": "https://www.visitljubljana.si"},
+      {"name": "Central Market", "url": "https://www.visitljubljana.si"},
+      {"name": "Dragon Bridge", "url": "https://www.visitljubljana.si"}
+    ],
+    "tours": [
+      {"name": "Ljubljana Old Town Walking Tour", "url": "https://www.visitljubljana.si"},
+      {"name": "Castle Funicular Ride", "url": "https://www.visitljubljana.si"},
+      {"name": "Slovenia In-Depth Tour", "url": "https://www.slovenia.info"},
+      {"name": "Lake Bled Day Trip", "url": "https://www.slovenia.info"}
+    ]
+  }
+}
