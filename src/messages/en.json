@@ -260,9 +260,9 @@
     "cookies": "Cookie Settings",
     "officialResourcesTitle": "Official Resources",
     "officialLinks": {
-      "council": "Slovenian Tourism",
-      "tourism": "Visit Ljubljana",
-      "england": "Visit Slovenia"
+      "sloveniaInfo": "Slovenian Tourist Board",
+      "visitLjubljana": "Visit Ljubljana",
+      "govSi": "Slovenia"
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or official institutions."
   },
